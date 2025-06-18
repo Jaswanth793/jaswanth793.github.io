@@ -11,7 +11,7 @@
           {% endif %}
         </div>
         <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-          <div class="title">{{ link.title }}</div>
+          <div class="title" style="color: #595959;">{{ link.title }}</div>
           <div class="description">{{ link.description }}</div>
           <div class="guide"><em>{{ link.guide }}</em></div>
         </div>
