@@ -1,7 +1,6 @@
 Main:
-
-    -title: Project Title Here
-     description: Briefly describe the work
-     guide: enter the guides name
+    -title: "Project Title Here"
+     description: "Briefly describe the work"
+     guide: "enter the guides name"
      image: ./assets/img/teaser_example_2.png
-     code:
+
