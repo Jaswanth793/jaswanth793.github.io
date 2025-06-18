@@ -1,7 +1,6 @@
 main:
 
-    -title: "Project Title Here"
-     description: "Briefly describe the work"
-     guide: "Enter the guide's name"
-     image: ./assets/img/teaser_example_2.png
-
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    description: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    guide: MICCAI
+    image: 
