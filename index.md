@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergrad student at IIT Madras, passionate about using computational methods for the design optimisation of cellular materials. 
+I am currently pursuing a bachelor's in Metallurgical and Materials Engineering with an Integrated master's in Computational Engineering at IIT Madras. My research primarily focuses on using computational methods for the design optimisation of cellular materials. Currently, at the Mechanics of Materials group at IIT Madras, I investigate the possibility of optimising truss-based lattice structures for dual-function - Impact Absorption and Heat Dissipation.
 
 ## Research Interests
 
