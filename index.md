@@ -12,6 +12,8 @@ I am currently pursuing a bachelor's in Metallurgical and Materials Engineering 
 - **Numerical Methods:** Convex Optimisation, Multi-Objective Optimisation
 - **Machine Learning** 
 
+{% include_relative _includes/projects.md %}
+
 {% include_relative _includes/publications.md %}
 
 ## Other Notable Achievements
