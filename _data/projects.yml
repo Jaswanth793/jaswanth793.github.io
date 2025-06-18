@@ -3,5 +3,5 @@ Main:
     -title: Project Title Here
      description: Briefly describe the work
      guide: enter the guides name
-     image: 
+     image: ./assets/img/teaser_example_2.png
      code:
