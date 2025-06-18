@@ -14,7 +14,7 @@
           <div class="title" style="color: #3eb7f0;">{{ link.title }}</div>
           <div class="description">{{ link.description }}</div>
           <div class="guide">
-            <span style="color: #1c1c1c;">Guide:</span> <em>{{ link.guide }}</em>
+            <span style="color: #e74d3c;">Guide:</span> <em>{{ link.guide }}</em>
           </div>
         </div>
       </div>
