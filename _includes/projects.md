@@ -13,8 +13,8 @@
         <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
           <div class="title" style="color: #3eb7f0;">{{ link.title }}</div>
           <div class="description">{{ link.description }}</div>
-          <div class="guide" style="color: #e8e8e8;">
-            <span>Guide:</span> <em>{{ link.guide }}</em>
+          <div class="guide">
+            <span style="color: #1c1c1c;">Guide:</span> <em>{{ link.guide }}</em>
           </div>
         </div>
       </div>
