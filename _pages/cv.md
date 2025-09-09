@@ -12,7 +12,7 @@ nav_order: 5
           width="100%" 
           height="900px">
     <p>Your browser does not support PDFs. 
-       <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}">Download CV</a>.
+       <a href="{{ '/assets/pdf/example_pdf.pdf' | relative_url }}">Download CV</a>.
     </p>
   </object>
 </div>
