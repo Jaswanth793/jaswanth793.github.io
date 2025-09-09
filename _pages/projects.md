@@ -8,7 +8,7 @@ horizontal: true
 ---
 
 <!--
-<!-- pages/projects.md -->
+<!-- pages/projects.md --!>
 <div class="projects">
 
   {% assign sorted_projects = site.projects | sort: "importance" %}
