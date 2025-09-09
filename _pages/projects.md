@@ -50,17 +50,6 @@ This page provides a brief overview of the various projects I completed as part 
     </div>
 </div>
 <div class="caption">
-    Summer 2024 internship @ Jindal Stainless Ltd, Odisha, India: study and prediction of steel melting shop defects in Ti-stabilized stainless steel coils.
-</div>
-
----
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cloakPaper_DIC.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
     3D convex hull construction using the gift wrapping algorithm for the course on data structures and algorithms (Prof. BSV Prasad Patnaik, Applied Mechanics, IIT Madras).
 </div>
 
