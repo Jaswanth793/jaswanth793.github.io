@@ -9,7 +9,7 @@ nav_order: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/blackboard_research2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -22,7 +22,7 @@ Welcome! My current research work focuses on the design of architected materials
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/matDes_graphAbs.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,9 +31,15 @@ Welcome! My current research work focuses on the design of architected materials
 
 ---
 
+<div class="img-fluid rounded z-depth-1 mb-3">
+  <video controls width="100%">
+    <source src="{{ '/assets/videos/voronoi.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/vfmPaper_GrapAbs.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/voronoi_plot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -44,11 +50,10 @@ Welcome! My current research work focuses on the design of architected materials
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cloakPaper_DIC.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/hess.png" 
+        title="Design and Development of an electro-mechanical testbed for a Hybrid Energy Storage (HES) system: A real-life electro-mechanical EV testbed was designed and fabricated to test hybrid setups of batteries and supercapacitors (in-house made active-carbon based). Remote monitoring of real-time sensor data was implemented using an ESP32 microcontroller. Multiple load profiles were made to replicate real driving scenarios for stress testing the HES system. The tesbed was later found useful to measure much higher capacitances (from the discharge profiles) of supercapacitors, which wasn't possible with conventional LCR meters." 
+        class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Design and Development of an electro-mechanical testbed for a Hybrid Energy Storage (HES) system: A real-life electro-mechanical EV testbed was designed and fabricated to test hybrid setups of batteries and supercapacitors (in-house made active-carbon based). Remote monitoring of real-time sensor data was implemented using an ESP32 microcontroller. Multiple load profiles were made to replicate real driving scenarios for stress testing the HES system. The tesbed was later found useful to measure much higher capacitances (from the discharge profiles) of supercapacitors, which wasn't possible with conventional LCR meters.
 </div>
 
 ---
