@@ -45,7 +45,7 @@ This page provides a brief overview of the various projects I completed as part 
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-6 mx-auto">
         {% include figure.liquid path="assets/img/convexHull.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
