@@ -7,31 +7,6 @@ nav_order: 3
 horizontal: true
 ---
 
-<!--
-<!-- pages/projects.md --!>
-<div class="projects">
-
-  {% assign sorted_projects = site.projects | sort: "importance" %}
-
-  {% if page.horizontal %}
-  <div class="row row-cols-1">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-  </div>
-  {% else %}
-  <div class="row row-cols-1">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-
-</div>
---!>
-
----
-
 This page provides a brief overview of the various projects I completed as part of my coursework, extracurricular activities, and personal interests purely driven by curiosity. I thoroughly enjoyed my time at Team Anveshak at IIT Madras, where I made significant contributions. I developed my own solver from scratch for the lid-driven cavity problem for my Computational Fluid Dynamics (CFD) course. This experience, in particular, paired with my interest in mechanical design optimization, sparked my interest in computational engineering.
 
 ---
