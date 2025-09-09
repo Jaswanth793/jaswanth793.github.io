@@ -4,6 +4,7 @@ title: CV
 permalink: /cv/
 nav: true
 nav_order: 5
+hide_title: true
 ---
 
 <div style="text-align:center;">
