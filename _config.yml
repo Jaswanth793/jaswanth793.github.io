@@ -99,7 +99,7 @@ collections:
   books:
     output: false
   projects:
-    output: false
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
