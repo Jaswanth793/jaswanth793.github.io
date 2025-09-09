@@ -39,6 +39,7 @@ Welcome! My current research work focuses the design of architected materials th
 <div class="caption">
     Biomimetic hierarchical auxetic honeycomb cells for impact absorption: Auxetic honeycomb cells were given a uniform and a non-uniform stochastic Voronoi distribution within their cell walls. The cells with a non-uniform Voronoi distribution had a dense network in the walls perpendicular to the loading direction and the coarse network in the walls parallel to the loading direction, thereby maintaining a similar mass as the uniform cell. It was hypothesized that an intricate Voronoi distribution at the stress intense regions (similar to the trabecular bone of the human body) would result in a higher plastic energy absorbed than the cell with a uniform Voronoi distribution. The simulation results showed that the auxetic cell with a non-uniform Voronoi cell absorbed almost four times more energy per unit mass than the uniform auxetic cell.
 </div>
+
 ---
 
 <div class="row">
