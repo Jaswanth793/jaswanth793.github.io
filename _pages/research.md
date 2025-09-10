@@ -61,7 +61,7 @@ The final optimized lattice achieved a 115% improvement in energy absorbed per u
 
 <div class="rounded z-depth-1 mb-3">
   <video controls preload="metadata" class="w-100">
-    <source src="{{ '/assets/video/multi_material_crush.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/assets/video/multi-material_crush.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
