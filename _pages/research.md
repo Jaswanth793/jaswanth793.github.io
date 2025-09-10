@@ -26,6 +26,8 @@ Multi-objective optimization of functionally graded BCC lattices for crashworthi
 
 ---
 
+##### Undergraduate research 2:
+
 <div class="img-fluid rounded z-depth-1 mb-3">
   <video controls preload="metadata" width="100%">
     <source src="{{ '/assets/video/voronoi.mp4' | relative_url }}" type="video/mp4">
@@ -42,6 +44,8 @@ Multi-objective optimization of functionally graded BCC lattices for crashworthi
 </div>
 
 ---
+
+##### Undergraduate research 1:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
