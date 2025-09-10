@@ -1,19 +1,7 @@
 ---
-layout: page
-title: CV
 permalink: /cv/
+redirect_to: /assets/pdf/CV.pdf
 nav: true
 nav_order: 5
-hide_title: true
+title: CV
 ---
-
-<div style="text-align:center;">
-  <object data="{{ '/assets/pdf/CV.pdf' | relative_url }}" 
-          type="application/pdf" 
-          width="100%" 
-          height="900px">
-    <p>Your browser does not support PDFs. 
-       <a href="{{ '/assets/pdf/CV.pdf' | relative_url }}">Download CV</a>.
-    </p>
-  </object>
-</div>
