@@ -16,7 +16,7 @@ nav_order: 2
 ---
 
 #### Summary
-Welcome! My current research work focuses on the design of architected materials that are tailored for multi-purpose applications rather than the traditional approach of single-purpose design. Few research works available in the literature investigate the possibility of optimizing/designing a structure for multiple applications, but these applications in turn have been within the same phenomenon. For example, optimizing a lattice structure for a lower initial peak stress but higher overall energy absorption. Both of these properties, although different, are governed by the mechanical properties of the material. My interest, however, is to explore the possibility of optimizing/discovering lattice structures that perform well both mechanically and thermally as crash absorbers and thermal dissipators, respectively. Such lattices can be trivial in the case of automobiles, where they can be adapted to replace radiator fins, thereby passively dissipating heat and absorbing crashes with minimal coolant leakage when such events occur.
+Welcome! My current research work focuses on the design of architected materials that are tailored for multi-purpose applications rather than the traditional approach of single-purpose design. Few research works available in the literature investigate the possibility of optimizing/designing a structure for multiple applications, but these applications in turn have been within the same phenomenon. For example, optimizing a lattice structure for a lower initial peak stress but higher overall energy absorption. Both of these properties, although different, are governed by the mechanical properties of the material. My interest, however, is to explore the possibility of optimizing/discovering lattice structures that perform well both mechanically and thermally as crash absorbers and thermal dissipators, respectively. Such lattices can be trivial in the case of automobiles, where they can be adapted to replace radiator fins, thereby passively dissipating heat and absorbing crashes with minimal coolant leakage when such events occur, or even as an enclosure for automotive power electronics or battery packs in the case of EVs.
 
 ---
 
@@ -26,9 +26,8 @@ Welcome! My current research work focuses on the design of architected materials
     </div>
 </div>
 <div class="caption">
-     Ongoing Research (Master's Thesis):
-    
-     Multi-objective optimization of functionally graded BCC lattices for crashworthiness and thermal dissipation: The final optimized lattice achieved a 115% improvement in energy absorbed per unit mass with a 36% reduction in the initial peak stress experienced at the distal end during impact, compared to a ground lattice of the same relative density but with struts of uniform diameter. The optimized lattice also exhibited a 31% reduction in pressure drop for the same amount of heat transferred as compared to the  ground lattice, thereby requiring less power to push air through the pores during forced convection.
+     Ongoing Research (Master's Thesis):\
+    Multi-objective optimization of functionally graded BCC lattices for crashworthiness and thermal dissipation: The final optimized lattice achieved a 115% improvement in energy absorbed per unit mass with a 36% reduction in the initial peak stress experienced at the distal end during impact, compared to a ground lattice of the same relative density but with struts of uniform diameter. The optimized lattice also exhibited a 31% reduction in pressure drop for the same amount of heat transferred as compared to the  ground lattice, thereby requiring less power to push air through the pores during forced convection.
 </div>
 
 ---
