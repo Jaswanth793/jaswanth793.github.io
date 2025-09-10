@@ -20,16 +20,10 @@ Welcome! My current research work focuses on the design of architected materials
 
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/0.jpg" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-     Ongoing Research (Master's Thesis):
+### Ongoing research (master's thesis):
     
-      Multi-objective optimization of functionally graded BCC lattices for crashworthiness and thermal dissipation: The final optimized lattice achieved a 115% improvement in energy absorbed per unit mass with a 36% reduction in the initial peak stress experienced at the distal end during impact, compared to a ground lattice of the same relative density but with struts of uniform diameter. The optimized lattice also exhibited a 31% reduction in pressure drop for the same amount of heat transferred as compared to the  ground lattice, thereby requiring less power to push air through the pores during forced convection.
-</div>
+Multi-objective optimization of functionally graded BCC lattices for crashworthiness and thermal dissipation: The final optimized lattice achieved a 115% improvement in energy absorbed per unit mass with a 36% reduction in the initial peak stress experienced at the distal end during impact, compared to a ground lattice of the same relative density but with struts of uniform diameter. The optimized lattice also exhibited a 31% reduction in pressure drop for the same amount of heat transferred as compared to the  ground lattice, thereby requiring less power to push air through the pores during forced convection.
+
 
 ---
 
